@@ -1,0 +1,76 @@
+
+
+Overview of the CCKS 2019 Knowledge Graph Evaluation Track: Entity, Relation, Event and QA
+
+
+Predicting Future Events 
+RECURRENT EVENT NETWORK: GLOBAL STRUCTURE  INFERENCE OVER TEMPORAL KNOWLEDGE GRAPH:  ICLR Workshop 2019 
+has code 
+1Code and data are published at https://github.com/INK-USC/RE-Net.
+
+
+下载
+Simon Gottschalk, Elena Demidova:
+EventKG: A Multilingual Event-Centric Temporal Knowledge Graph. ESWC 2018: 272-287
+http://eventkg.l3s.uni-hannover.de/
+
+
+Simon Gottschalk, Elena Demidova:
+EventKG+TL: Creating Cross-Lingual Timelines from an Event-Centric Knowledge Graph. ESWC (Satellite Events) 2018: 164-169
+
+
+Event Series Completion
+Simon Gottschalk, Elena Demidova:
+HapPenIng: Happen, Predict, Infer - Event Series Completion in a Knowledge Graph. ISWC (1) 2019: 200-218
+
+
+下载
+Eventuality Knowledge Graph ???
+Hongming Zhang, Xin Liu, Haojie Pan, Yangqiu Song, Cane Wing-Ki Leung:
+ASER: A Large-scale Eventuality Knowledge Graph. WWW 2020: 201-211
+
+下载
+knowledge graph Construction 
+Hoang Long Nguyen, Jason J. Jung:
+Social event decomposition for constructing knowledge graph. Future Gener. Comput. Syst. 100: 10-18 (2019)
+
+下载
+Building event-centric knowledge graphs
+Building event-centric knowledge graphs from news. J. Web Semant. 37-38: 132-151 (2016)
+
+
+######################  Application ###########################
+
+Searching News Articles
+Charlotte Rudnik, Thibault Ehrhart, Olivier Ferret
+Searching News Articles Using an Event Knowledge Graph Leveraged by Wikidata. WWW (Companion Volume) 2019: 1232-1239
+
+
+下载
+Event-Centric Question Answering
+Tarcísio Souza Costa, Simon Gottschalk, Elena Demidova:
+Event-QA: A Dataset for Event-Centric Question Answering over Knowledge Graphs. CoRR abs/2004.11861 (2020)
+
+下载
+Financial Event Prediction
+Yiying Yang, Zhongyu Wei, Qin Chen, Libo Wu:
+Using External Knowledge for Financial Event Prediction Based on Graph Neural Networks. CIKM 2019: 2161-2164
+
+下载
+Knowledge-Driven Event Embedding for Stock Prediction Colings, 2016 
+
+############  视频方向  ##########################
+
+下载
+摘要Visual Summary 
+Yuanzhe Chen, Panpan Xu, Liu Ren:
+Sequence Synopsis: Optimize Visual Summary of Temporal Event Data. IEEE Trans. Vis. Comput. Graph. 24(1): 45-55 (2018)
+
+下载
+Spatiotemporal Event Pattern Matching
+Piyush Yadav, Dhaval Salwala, Edward Curry:
+Knowledge Graph Driven Approach to Represent Video Streams for Spatiotemporal Event Pattern Matching in Complex Event Processing. CoRR abs/2007.06292 (2020)
+
+
+
+
